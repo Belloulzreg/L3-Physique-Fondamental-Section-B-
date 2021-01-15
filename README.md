@@ -19,5 +19,7 @@
 - [Drive de RR (2021-2022](https://drive.google.com/folderview?id=1EFRAG_fNhCzK0ZZPjbiivZ4b9uJKftnv)
 - [Moodle de l'USTHB ](https://campusvirtuel.usthb.dz/)
 - [Site de la faculté de physique](https://fphy.usthb.dz/)
+- [Youtube channel RR](https://www.youtube.com/channel/UCoZZa93LKvH1jeV0If-n5nQ)
+
 ## **Program**
 ![](./planning_section_B.jpg)
