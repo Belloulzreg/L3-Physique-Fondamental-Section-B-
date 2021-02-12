@@ -2,7 +2,7 @@
 ## **Contact Info**
 | Module      | Prof de Cours|Prof de Td|
 | ----------- | ----------- |-----------|
-| Mécanique Quantique II      | Kessal <kessal_salem@yahoo.fr>|<ul><li>Gr1/Gr2: Benarbia<benrabia.djaafer@gmail.com>|
+| Mécanique Quantique II      | Kessal <kessal_salem@yahoo.fr>|<ul><li>Gr1/Gr2: Benarbia <benrabia.djaafer@gmail.com>|
 | Analyse Numérique   | Idjimaren <s.idjimarene@gmail.com>|<ul><li>Gr1/Gr2:Hammache</li></ul> |       
 |Relativité Restreinte|Chami  <achami@usthb.dz>|<ul><li>Gr1:Azzouz </li><li>Gr2:Bourdache</li></ul>|
 |Ondes électromagnétiques|Derrar <kaddourz@yahoo.com>|<ul><li>Gr1/Gr2:Derrar</ul>|
