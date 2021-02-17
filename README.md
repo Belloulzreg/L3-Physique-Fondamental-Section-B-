@@ -15,7 +15,7 @@
 - [Facebook](https://www.facebook.com/groups/1561276947413528)
 - [Discord](https://discord.gg/Zdts7G96)
 - [Messanger]()
-- [Drive](https://drive.google.com/drive/folders/15FP2Ata3pxB89wG3dCkeVj3Yzg7_dAtn?fbclid=IwAR29sEPS5nlDyEe0LXjILNcLwj9nd_LDR-fSyf2mFb702j4hFWZ4paWc1NU)
+- [Drive de section B](https://drive.google.com/drive/u/0/folders/1hIvzDqkhTm4uiBDybATwgx_dLkVg20Kh?fbclid=IwAR3Tj_rWzVs5sinfKZcRKSwG2AqYpdbKmxUMk7-s5LekJ1tpSNMCPXWmAc8)
 - [Drive de RR (2021-2022](https://drive.google.com/folderview?id=1EFRAG_fNhCzK0ZZPjbiivZ4b9uJKftnv)
 - [Moodle de l'USTHB ](https://campusvirtuel.usthb.dz/)
 - [Site de la faculté de physique](https://fphy.usthb.dz/)
