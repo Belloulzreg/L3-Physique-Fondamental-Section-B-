@@ -20,6 +20,7 @@
 - [Moodle de l'USTHB ](https://campusvirtuel.usthb.dz/)
 - [Site de la faculté de physique](https://fphy.usthb.dz/)
 - [Youtube channel RR](https://www.youtube.com/channel/UCoZZa93LKvH1jeV0If-n5nQ)
+- [Youtube Channel](https://www.youtube.com/channel/UCoZZa93LKvH1jeV0If-n5nQ/featured)
 
 ## **Program**
 ![](./planning_section_B.jpg)
